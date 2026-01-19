@@ -52,7 +52,7 @@ vendor/
 coverage/
 
 # ========================
-# Arquivos de mídia (opcional)
+# Arquivos de mídia e documentos
 # ========================
 *.png
 *.jpg
@@ -61,3 +61,4 @@ coverage/
 *.mp4
 
 *.txt
+!requirements.txt
